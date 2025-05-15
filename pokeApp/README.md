@@ -6,4 +6,4 @@ To try this app start whit this steps
 
 3. Run "npm install"
 
-4 Run "npm run dev" and then open the localhost:3000
+4. Run "npm run dev" and then open the localhost:3000
